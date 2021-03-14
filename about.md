@@ -6,6 +6,6 @@ permalink: /about/
 
 ### Contact me
 
-[zedashkan.ir@gmail.com](mailto:zedashkan.ir@gmail.com)
+[zedashkanir@gmail.com](mailto:zedashkanir@gmail.com)
 
 [mahdimomenihv@gmail.com](mailto:mahdimomenihv@gmail.com)
